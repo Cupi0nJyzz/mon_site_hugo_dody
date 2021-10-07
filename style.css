@@ -1,0 +1,42 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.button-blue {
+	background-color: blue ;
+    color white;
+    font-weight: bold;
+    padding: 16px;
+    border-radius: 6px;
+    border: 1px blue solid;
+    mrgin:24px auto;
+    display: block;
+    width:50%;
+}    
+.button-blue:hover{
+    background-color: white;
+    button: blue;
+    transition: 0.5s;
+} 
+i:{
+	font-size: 48px
+	color: rgba(0, 0, 0, .4);
+}
+i:{
+	
+}
+margin-bottom:38px;
